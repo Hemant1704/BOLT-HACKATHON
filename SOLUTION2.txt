@@ -1,0 +1,17 @@
+SOLUTION TO PROBLEM 2:
+
+We extended this and implememted our ideas to make this project better and beneficial to current medical scenario
+
+We see that if a certain virus spreads in a certain area which is new and unknown the doctors are not able to identify it 
+Specially if we take the example of corona virus... it spread in China but many countries still are not able to identify the
+structure of the virus and how it affects a particular cell.
+
+What our team decided to make is such a portal where any researcher can add the cell images even 10 20 or 30 images. So if we get images
+of the cell from around the globe we made a program which identify the problematic area in effected or parasitized human cell 
+using the contour detection method. The affected area in a cell was circles or spots so we decided to extract largest 5 contours 
+Our software will then extract the features (the contour areas of the effected portion) and make a dataset file which can be made available
+on the portal so that anywhere in the world a ml algorithm can be used over the dataset and the virus is identified easily.
+We also implemented our own ml code which  gave us an accuracy of 90 to 93 percent.
+
+We believe that this idea is realy nice and great to solve the problem of lack of dataset and image of a newly arrived disease.
+
