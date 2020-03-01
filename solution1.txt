@@ -1,0 +1,24 @@
+MADE BY : 
+HEMANT CHAUHAN(18BIT0032 VIT VELLORE)
+ROUNAK BASAK(18BIT0277 VIT VELLORE)
+MANU (18BIT0060 VIT VELLORE)
+
+We not just limited to our solution to the problem statement specified 
+We have added some features by ourselves to make it more better and for use in current requirment and scenario
+
+Solution of problem statement 1(problem statement file in this repository refer that) 
+
+We made a interface in which doctor can speak the word or sub heading he wants from the report and than it will give the doctor the set
+of portions or pages from the file where the word or heading is threre with the word circled in red colour.
+NLP was asked to involve thus we have taken speech voice of the doctor as input to our program.
+
+1.First doctor gives the scanned file or pdf file as input
+2.Doctor speaks the subheading or parameter he wants from the file(ex - "Give me tissue" or "Blood sugar") that is then connverted to text 
+3.software will take the file given by doctor as input.
+4.Then it converts the pdf file into a series or set of jpeg images and made a folder of it
+5.This folder is again than taken as input and program extracts one by one each image and gets the text out from it
+6.The text and the voice message are compared if any word matches
+7. The index of the current page is stored and if the word matches that page is ready to show after complete execution of code
+8. also around the matched word we make a box so that it can be easily seen by the doctor where the part is present he wants  
+
+ 
