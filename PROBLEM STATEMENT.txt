@@ -5,8 +5,14 @@ RESULT : 3rd position(20,000 cash prize)
 Our team no was 73 and we choose the problem statement CAPM1 given by capgemini industry
 
 Under that there were 2 subparts
-    a)Identifying relevant focus areas for a doctor from a big report
     
-    b)Getting problematic areas from a particular cell and tissue
+a)Identifying relevant focus areas for a doctor from a big report:
+      
+ A doctor has a very large report in which most of the part is not that much important for him what he needs is just few parameters or portions. But he has to read the whole report for just finding particular portion. 
+We needed to provide a solution to this using NLP(natural language processing)   
+    
 
-For solution description please refer IDEA file in this repository
+b)Getting problematic areas from a particular cell and tissue:
+A normal uninfected cell is diffrent from that of a infected or parasitized cell thus we needed to use image processsing to define the diffrence or basis of segmenting both of them and find particular problematic areas  
+
+For solution description please refer solution file in this repository
